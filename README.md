@@ -1,15 +1,11 @@
 # Смарт Очки с  Смарт Браслетом
 ### Схемы
+Очки  | Браслет 
+------------- | -------------
+![Screenshot](Images/Glasses.png)  | ![Screenshot](Images/Watch.png)
 
-#### Очки
-![Screenshot](Images/Glasses.png)
-#### Браслет
-![Screenshot](Images/Watch.png)
 ### Папки
 - Arduino - Скетчи ардуино
 - Apps - Приложения
 - Image - Схемы
 - Libs - Библиотеки
-|test|lol|
-|----|---|
-|dfga|ytr|
