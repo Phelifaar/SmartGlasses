@@ -15,3 +15,7 @@
 - Любые очки
 - Arduino Pro Mini: http://ali.pub/3r758l
 - nRF24L01: http://ali.pub/3r75co
+- Nokia 5110: http://ali.pub/3r75hx
+#### Браслет
+- Arduino Pro Mini: http://ali.pub/3r758l
+- nRF24L01: http://ali.pub/3r75co
