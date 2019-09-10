@@ -9,3 +9,9 @@
 - Apps - Приложения
 - Image - Схемы
 - Libs - Библиотеки
+
+### Компоненты
+#### Очки
+- Любые очки
+- Arduino Pro Mini: http://ali.pub/3r758l
+- nRF24L01: http://ali.pub/3r75co
