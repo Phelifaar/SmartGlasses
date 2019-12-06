@@ -19,7 +19,7 @@
 
 ### Компоненты
 ##### Бюджет (на 23.09.2019) - 836,76 руб.
-- Arduino Pro Mini: http://ali.pub/3r758l
+- Arduino Pro Mini: https://cutt.ly/ArduinoPhelifar
 - nRF24L01: http://ali.pub/3r75co
 - Nokia 5110: http://ali.pub/3r75hx
 ### Изменения
